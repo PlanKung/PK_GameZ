@@ -1,0 +1,29 @@
+﻿{
+	"version": 1673372932,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/obj_bg-sheet0.png",
+		"images/obj_floor.png",
+		"images/bg-sheet0.png",
+		"images/obj_floor2-sheet0.png",
+		"images/obj_floor3-sheet0.png",
+		"images/player-sheet0.png",
+		"images/solid-sheet0.png",
+		"images/floor4-sheet0.png",
+		"images/anime-sheet0.png",
+		"images/anime-sheet1.png",
+		"images/solid2-sheet0.png",
+		"images/jkjkjk.png",
+		"images/lololo.png",
+		"images/coin-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
